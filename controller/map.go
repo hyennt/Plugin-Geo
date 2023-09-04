@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"example/simpleHTTP/ggMapService"
-	"example/simpleHTTP/mapBoxService"
+	"VApplicationBE/plugin-service/ggMapService"
+	"VApplicationBE/plugin-service/mapBoxService"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
